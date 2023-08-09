@@ -1,4 +1,4 @@
-# AIFFEL Campus Online 4th Code Peer Review Templete
+# AIFFEL Socar Campus Code Peer Review Template
 - 코더 : 정영진
 - 리뷰어 : [리뷰어]
 
