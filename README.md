@@ -11,3 +11,5 @@
 4. [네 번째 퀘스트: 모두카페 꼼꼼히 살펴보기](https://github.com/jyj1206/AIFFEL/tree/main/quest_4) 
 5. [다섯 번째 퀘스트: 나의 첫 번째 캐글 경진대회, 무작정 따라해보기](https://github.com/jyj1206/AIFFEL/tree/main/quest_5)
 6. [여섯 번째 퀘스트: 임베딩 내 편향성 알아보기 (option)](https://github.com/jyj1206/AIFFEL/tree/main/quest_6)
+7. [일곱 번째 퀘스트: 딥러닝 프로젝트](https://github.com/jyj1206/AIFFEL/tree/main/quest_7)
+8. [여덟 번째 퀘스트: Computer Vision Project](https://github.com/jyj1206/AIFFEL/tree/main/quest_8)
