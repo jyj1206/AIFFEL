@@ -14,4 +14,4 @@
 7. [일곱 번째 퀘스트: 딥러닝 프로젝트](https://github.com/jyj1206/AIFFEL/tree/main/quest_07)
 8. [여덟 번째 퀘스트: Computer Vision Project](https://github.com/jyj1206/AIFFEL/tree/main/quest_08)
 9. [아홉 번째 퀘스트: 트랜스포머로 만드는 대화형 챗봇](https://github.com/jyj1206/AIFFEL/tree/main/quest_09)
-10.[열 번째 퀘스트: ControlNet으로 조건을 준 이미지 생성하기](https://github.com/jyj1206/AIFFEL/tree/main/quest_10)
+10. [열 번째 퀘스트: ControlNet으로 조건을 준 이미지 생성하기](https://github.com/jyj1206/AIFFEL/tree/main/quest_10)
